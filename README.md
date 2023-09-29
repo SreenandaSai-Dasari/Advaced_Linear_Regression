@@ -2,7 +2,7 @@
 
 This project uses a real time Housing project data consisting of 80 Independent variables and 1 target variable (house_price). The main aim of this project is to prepare a roadmap for end-to-end ***Linear Regression*** model that includes steps such as ***Data Cleaning***, ***Exploratory Data Analysis***, ***Data Modeling***, ***Linear Regression Assumptions***, ***Building a Linear Regression model*** and ***Hyperparameter Tuning***, ***Model Evaluation***
 
-This project also covers the regularization methods such as ***Ridge and Lasso Regression***. I will check how these regularization functions impact a normal Linear Regression Model by comparing the ***r2-score***, ***adjusted r2-score*** and ***coefficients*** of all three models.
+This project also covers the regularization methods such as ***Ridge and Lasso Regression***. I will check how these regularization functions impact a normal Linear Regression Model by comparing the ***r2 -s core***, ***adjusted r2-score*** and ***coefficients*** of all three models.
 
 ## Further, I am listing down steps in each phase here:
 
